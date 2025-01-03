@@ -1,4 +1,5 @@
 ---
+theme: minima
 layout: post
 title: "Ejemplo de artículo en Análisis Macro"
 date: 2025-01-03
